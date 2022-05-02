@@ -10,6 +10,7 @@ it will respond with count = 8.
 ## Running ##
 This project uses Maven. To run the project, clone this repo and execute the following command from the project folder:
 ```
+mvn install
 mvn clean spring-boot:run
 ```
 
